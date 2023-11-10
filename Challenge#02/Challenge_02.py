@@ -1,7 +1,7 @@
 def spy_language(operations: str) -> str:
     '''
     Calcula un número a base de operaciones utilizando caracteres especiales
-    # = suma 1, @ = resta 1, * = cuadrado, & = fin
+    @params # = suma 1, @ = resta 1, * = cuadrado, & = fin
     '''
     number = 0
     out = ""
