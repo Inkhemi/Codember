@@ -24,3 +24,7 @@ for line in file:
         cont_failures += 1
         if cont_failures == 42:
             print(password)
+            
+        # Pista para secreto
+        if cont_failures == 13:
+            print(password)
