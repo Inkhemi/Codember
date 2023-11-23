@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { workerData } = require('worker_threads');
 
 const input = fs.readFileSync('Challenge#01/message_01.txt', 'utf8').split('\n');
 const words_split = input[0].split(' ');
