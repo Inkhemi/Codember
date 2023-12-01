@@ -10,6 +10,7 @@ Repositorio creado para subir mis soluciones al [codember](https://codember.dev/
 | Challenge 02         | Python <br> JavaScript |
 | Challenge 03         | Python <br> JavaScript |
 | Challenge 04         | Python <br> JavaScript |
+| Challenge 05         | Python                 |
 
 ## Lenguajes
 
