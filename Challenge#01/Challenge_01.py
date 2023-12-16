@@ -1,5 +1,6 @@
 text = []
-with open("Challenge#01/message_01.txt", "r") as f:
+with open("Challenge#01/message_01.txt", "r") as file:
+    f = list(file)
     for word in f:
         word = word.lower()
         text += word.split(" ")
